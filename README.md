@@ -35,15 +35,6 @@ Hi there! I'm **Hafiz Ali Salman** – a passionate and dedicated Software Engin
 
 - 📧 Email: [hafiz.ali.salman@outlook.com](mailto:hafiz.ali.salman@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/hafiz-ali-salman-40715a250](https://linkedin.com/in/hafiz-ali-salman-40715a250)  
-- 🌐 Portfolio: *(Add your portfolio link here if available)*
-
----
-
-## 📊 GitHub Stats
-
-> _(Optional – Works only if you’ve enabled GitHub ReadMe Stats)_
-
-![Hafiz Ali Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizalisalman&show_icons=true&theme=radical)
 
 ---
 
