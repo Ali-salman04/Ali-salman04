@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,100:7F5AF0&height=220&section=header&text=Hafiz%20Ali%20Salman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20MERN%20%C2%B7%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=Hafiz%20Ali%20Salman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20MERN%20%C2%B7%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+with+Next.js+%26+MERN;Integrating+AI+%2F+LLMs+into+real+products;Clean+code.+Fast+architecture.+Zero+tech+debt.;Currently+open+to+full-stack+%26+frontend+roles" alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:7F5AF0&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&section=header&width=100%"/>
 
 ## 🚀 About Me
 
@@ -62,7 +62,7 @@ I specialize in **Next.js** and the **MERN stack**, helping startups and busines
 
 📩 **Got a project or a technical challenge?** DM or email me — always happy to connect with founders and fellow builders.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:7F5AF0&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&section=header&width=100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -87,7 +87,7 @@ I specialize in **Next.js** and the **MERN stack**, helping startups and busines
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:7F5AF0&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&section=header&width=100%"/>
 
 ## 📌 Featured Projects
 
@@ -119,7 +119,7 @@ Designed and built a full digital presence focused on performance & clean UI/UX 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:7F5AF0&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&section=header&width=100%"/>
 
 ## 🏆 Certifications
 
@@ -130,7 +130,7 @@ Designed and built a full digital presence focused on performance & clean UI/UX 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:7F5AF0&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&section=header&width=100%"/>
 
 ## 📊 GitHub Stats
 
@@ -145,14 +145,14 @@ Designed and built a full digital presence focused on performance & clean UI/UX 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:7F5AF0&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&section=header&width=100%"/>
 
 ## 💬 What People Say
 
 > "Hafiz Ali is one of the best developers I have ever worked with. He delivers quality work — recently we worked together on a food system web platform and he delivered great results."
 > — **Muhammad Usman Cheema**, Performance Marketing Specialist
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3CAC,100:7F5AF0&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&section=header&width=100%"/>
 
 <div align="center">
 
@@ -164,6 +164,6 @@ Always open to discussing projects, collaborations, or a good technical challeng
 <a href="mailto:halisalman04@gmail.com"><img src="https://img.shields.io/badge/-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Ali-salman04"><img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:FF3CAC&height=120&section=footer&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer&width=100%"/>
 
 </div>
