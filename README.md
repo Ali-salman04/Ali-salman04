@@ -206,27 +206,6 @@ A responsive digital presence for a solar-energy company — modern UI/UX with a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
-<!-- ===================== PROFILE SUMMARY CARDS ===================== -->
-## <img src="https://media.giphy.com/media/hqExMhWXFsRz8Hdgns/giphy.gif" width="28"> Profile Summary
-
-<div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-salman04&theme=nightowl" width="80%"/>
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-salman04&theme=nightowl" height="200"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-salman04&theme=nightowl" height="200"/>
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-salman04&theme=nightowl" height="200"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali-salman04&theme=nightowl&utcOffset=5" height="200"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
-
 <!-- ===================== QUOTE ===================== -->
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> Dev Quote
 
