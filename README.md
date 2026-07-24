@@ -5,8 +5,7 @@ Lahore, Pakistan
 
 Full-Stack Developer specializing in Next.js and the MERN stack, currently building a
 production healthcare RCM platform at MedSynthea. I turn ideas into stable, scalable
-products with a focus on clean architecture, maintainable UI systems, and performance —
-without accumulating technical debt.
+products with a focus on clean architecture, maintainable UI systems, and performance.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-ali-salman-40715a250/)
 [![Email](https://img.shields.io/badge/Email-halisalman04@gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:halisalman04@gmail.com)
