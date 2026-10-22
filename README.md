@@ -1,157 +1,147 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,60:0A192F,100:D4AF37&height=190&section=header&text=Hafiz%20Ali%20Salman&fontSize=54&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Engineer%20%C2%B7%20Healthcare%20SaaS&descAlignY=66&descSize=18&descColor=D4AF37" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:3B82F6&height=260&section=header&text=Hafiz%20Ali%20Salman&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%F0%9F%9A%80%20Full-Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20MERN%20%C2%B7%20TypeScript&descAlignY=54&descSize=20" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=820&height=40&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer;%24+building+%E2%86%92+US-based+healthcare+RCM+product;%24+integrations+%E2%86%92+Epic+%C2%B7+Oracle+Health+%C2%B7+Stedi+%C2%B7+Optum;%24+status+%E2%86%92+open+to+new+challenges" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&multiline=true&width=780&height=120&lines=Building+scalable+web+apps+with+Next.js+%26+MERN;Shipping+production+healthcare+software+%40+MedSynthea;Reusable+component+systems+%C2%B7+clean+maintainable+UI;Clean+code.+Fast+architecture.+Zero+tech+debt." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hafiz-ali-salman-40715a250/"><img src="https://img.shields.io/badge/LinkedIn-050B18?style=flat-square&logo=linkedin&logoColor=D4AF37"/></a>
-<a href="mailto:halisalman04@gmail.com"><img src="https://img.shields.io/badge/Email-050B18?style=flat-square&logo=gmail&logoColor=D4AF37"/></a>
-<a href="https://github.com/Ali-salman04"><img src="https://img.shields.io/badge/GitHub-050B18?style=flat-square&logo=github&logoColor=D4AF37"/></a>
-<a href="https://wa.me/923181469544"><img src="https://img.shields.io/badge/WhatsApp-050B18?style=flat-square&logo=whatsapp&logoColor=D4AF37"/></a>
-<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-050B18?style=flat-square&logo=googlemaps&logoColor=D4AF37"/>
-<img src="https://komarev.com/ghpvc/?username=Ali-salman04&style=flat-square&color=D4AF37&labelColor=050B18&label=VIEWS"/>
-<img src="https://img.shields.io/github/followers/Ali-salman04?style=flat-square&color=D4AF37&labelColor=050B18&logo=github"/>
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/hafiz-ali-salman-40715a250/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
+<a href="mailto:halisalman04@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=3B82F6"/></a>
+<a href="https://github.com/Ali-salman04"><img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://wa.me/923181469544"><img src="https://img.shields.io/badge/WhatsApp-0A192F?style=for-the-badge&logo=whatsapp&logoColor=3B82F6"/></a>
+<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-0A192F?style=for-the-badge&logo=googlemaps&logoColor=3B82F6"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ali-salman04&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Ali-salman04?style=for-the-badge&color=3B82F6&labelColor=0A192F&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-0A192F?style=for-the-badge&logo=briefcase&logoColor=3B82F6"/>
 
 </div>
 
-<!-- ===================== KPI CARDS ===================== -->
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<h2>2+</h2>
-<sub><b>YEARS</b><br/>shipping production web apps</sub>
-</td>
-<td align="center" width="20%">
-<h2>4</h2>
-<sub><b>INTEGRATIONS</b><br/>Epic · Oracle Health · Stedi · Optum</sub>
-</td>
-<td align="center" width="20%">
-<h2>26</h2>
-<sub><b>UI MODULES</b><br/>in a reusable component library</sub>
-</td>
-<td align="center" width="20%">
-<h2>50+</h2>
-<sub><b>COMPONENTS</b><br/>Dashboard · Clinical · Admin · RCM</sub>
-</td>
-<td align="center" width="20%">
-<h2>US</h2>
-<sub><b>HEALTHCARE</b><br/>RCM product, outstanding team</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
-
-<!-- ===================== PROFILE PANEL ===================== -->
-## 🧭 Profile
+<!-- ===================== ABOUT ===================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="56%" valign="top">
 
 ```ts
-const hafiz: Engineer = {
-  role      : "Full-Stack Engineer",
-  industry  : "Healthcare SaaS · RCM",
-  product   : "US-based, production-grade",
-  team      : "Outstanding engineers",
-  location  : "Lahore, Pakistan 🇵🇰",
-  education : "BS Software Engineering",
-  focus     : "Integrations, scalable APIs, UI architecture",
-  motto     : "Clean code. Fast architecture.",
+const hafiz: Developer = {
+  role       : "Full-Stack Developer",
+  company    : "MedSynthea · Healthcare RCM",
+  location   : "Lahore, Pakistan 🇵🇰",
+  education  : "BS Software Engineering @ UMT",
+  stack      : ["Next.js", "React", "TypeScript", "Node.js"],
+  focus      : "Scalable UI systems & high-perf web apps",
+  currently  : "Building in healthtech 🏥",
+  philosophy : "Working exceptionally well > working a lot",
+  funFact    : "Ship clean. Break nothing. Sleep well. 😴",
 };
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="44%" valign="top">
 
-**What I'm working on**
-
-- 🏥 Production **healthcare RCM** platform for the US market
-- 🔌 **EHR** exchange with Epic and Oracle Health
-- 🧾 **Claims, eligibility & claim status** via Stedi and Optum
-- 🧩 Reusable UI systems in **React, Next.js & TypeScript**
-- 🌱 Deepening **system design** and **UI architecture**
+- 🏥 &nbsp;Building a **production healthcare RCM** platform in React, Next.js & TypeScript
+- 🧩 &nbsp;Shipped a **reusable component library** — 26 modules, 50+ components
+- 🎯 &nbsp;Turning ideas into **stable, scalable** products with **Next.js & MERN**
+- 🌱 &nbsp;Currently deepening **system design** & **UI architecture**
+- 💬 &nbsp;Ask me about **React, Next.js, TypeScript, Node**
+- 📫 &nbsp;Reach me at **halisalman04@gmail.com**
+- ⚡ &nbsp;Motto: *clean code, fast architecture, zero tech debt*
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
-<!-- ===================== ANALYTICS ===================== -->
-## 📊 Analytics
+<!-- ===================== TECH STACK ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-salman04&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&bg_color=050B18" height="175"/>
-</td>
-<td align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-salman04&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=c9d1d9&bg_color=050B18&langs_count=8" height="175"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-salman04&theme=dark&hide_border=true&background=050B18&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=c9d1d9&dates=8b949e"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-salman04&theme=github-compact&hide_border=true&bg_color=050B18&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF37" width="95%"/>
-</td>
-</tr>
-</table>
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=typescript,javascript,postgres,html,css&theme=dark" />
+
+#### ⚛️ Frameworks & Styling
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/shadcn/ui-0A192F?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0A192F?style=for-the-badge&logo=fastapi&logoColor=3B82F6"/>
+
+#### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,vscode&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
+<br/>
 
-<!-- ===================== TECH MATRIX ===================== -->
-## 🛠️ Tech Matrix
+### 📋 Skills at a Glance
 
-<div align="center">
-
-| Layer | Stack | Proficiency |
+| Category | Technologies | Level |
 | :--- | :--- | :---: |
-| **Languages** | TypeScript · JavaScript · SQL (PostgreSQL) · HTML/CSS | ▰▰▰▰▱ |
-| **Frontend** | Next.js · React · Tailwind CSS · shadcn/ui | ▰▰▰▰▱ |
-| **Backend** | Node.js · Express.js · REST APIs | ▰▰▰▱▱ |
-| **Database** | PostgreSQL · MongoDB | ▰▰▰▱▱ |
-| **Tooling** | Git · GitHub · Docker · Postman · Vercel · VS Code | ▰▰▰▰▱ |
+| **Languages** | TypeScript · JavaScript · SQL (PostgreSQL) · HTML/CSS | 🔵🔵🔵🔵 |
+| **Frontend** | Next.js · React · Tailwind CSS · shadcn/ui | 🔵🔵🔵🔵 |
+| **Backend** | Node.js · Express.js · REST APIs | 🔵🔵🔵⚫ |
+| **Database** | MongoDB · PostgreSQL | 🔵🔵🔵⚫ |
+| **Tools** | Git · GitHub · Docker · Postman · Vercel · VS Code | 🔵🔵🔵🔵 |
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,nodejs,express,postgres,mongodb,tailwind,docker,git,github,postman,vercel,vscode&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
+
+<!-- ===================== TROPHIES ===================== -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ali-salman04&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
 <!-- ===================== EXPERIENCE ===================== -->
-## 💼 Experience Timeline
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Experience
 
-| Period | Role | Highlights |
-| :--- | :--- | :--- |
-| `May 2026 → Present` | **Full-Stack Developer**<br/>MedSynthea · Lahore | • Production **healthcare RCM** product (React, Next.js, Node.js, PostgreSQL, TypeScript)<br/>• **EHR** integrations: Epic, Oracle Health<br/>• **Clearinghouse** APIs: Stedi, Optum (claims, eligibility, claim status)<br/>• Reusable component library: 26 modules, 50+ components |
-| `Jan 2025 → Feb 2026` | **Associate Full-Stack Developer**<br/>DMZ Dev Hub · Lahore | • MERN-stack apps, component architecture to deployment<br/>• REST API integration and performance optimization<br/>• Shipped user-centric software with the team |
-| `Jul 2024 → Dec 2024` | **Software Engineer Intern**<br/>DMZ Dev Hub · Lahore | • UI components and REST APIs with React.js, TypeScript, Tailwind CSS<br/>• Bug fixing and Git collaboration<br/>• Helped ship client web apps on schedule |
+> ### 🏥 &nbsp; Full-Stack Developer — **MedSynthea**
+> `May 2026 – Present` · Lahore, Pakistan
+>
+> - Build responsive, scalable interfaces for a **production healthcare RCM** product using React.js, Next.js & TypeScript.
+> - Built a **reusable component library** — 26 modules, 50+ components across Dashboard, Clinical, Admin & RCM.
+> - Integrate RESTful APIs and design maintainable UI primitives for performance and consistency.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
+> ### ⚙️ &nbsp; Associate Full-Stack Developer — **DMZ Dev Hub**
+> `Jan 2025 – Feb 2026` · Lahore, Pakistan
+>
+> - Delivered **MERN-stack** web apps end to end — from component architecture to deployment.
+> - Integrated REST APIs and optimized performance, improving responsiveness and system efficiency.
+> - Partnered with the team to ship high-quality, user-centric software.
 
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
+> ### 🌱 &nbsp; Software Engineer Intern — **DMZ Dev Hub**
+> `Jul 2024 – Dec 2024` · Lahore, Pakistan
+>
+> - Built UI components and integrated REST APIs with React.js, TypeScript & Tailwind CSS.
+> - Fixed bugs and managed code changes with Git in a collaborative workflow.
+> - Supported senior developers in shipping client web apps on schedule.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
+
+<!-- ===================== PROJECTS TABLE ===================== -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
+
+| Project | Type | Tech Stack | Timeline |
+| :--- | :--- | :--- | :---: |
+| 🩺 **Face Derma AI** — AI skin-condition detection with reports, dermatologist profiles & chatbot | Final Year Project | React · Node · Express · MongoDB | `2024–25` |
+| ☀️ **Active Technology** — Solar-energy company site with dark/light mode & WhatsApp chat | Client Project | Next.js · TypeScript · Tailwind · shadcn/ui | `2024–25` |
 
 <table>
 <tr>
@@ -160,13 +150,13 @@ const hafiz: Engineer = {
 ### 🩺 Face Derma AI
 `Aug 2024 – Sep 2025` · **Final Year Project**
 
-AI-powered healthcare platform that detects skin conditions through **image-based analysis**: skin reports, dermatologist profiles, location-based assistance, chatbot and product recommendations.
+AI-powered healthcare platform that detects skin conditions through **image-based analysis**. Includes detailed skin reports, dermatologist profiles, location-based assistance, an intelligent chatbot, and product recommendations.
 
-<img src="https://img.shields.io/badge/React-050B18?style=flat-square&logo=react&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Node.js-050B18?style=flat-square&logo=node.js&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Express-050B18?style=flat-square&logo=express&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/MongoDB-050B18?style=flat-square&logo=mongodb&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Tailwind-050B18?style=flat-square&logo=tailwindcss&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/React-0A192F?style=flat-square&logo=react&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Node.js-0A192F?style=flat-square&logo=node.js&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Express-0A192F?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-0A192F?style=flat-square&logo=mongodb&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/AI%2FML-0A192F?style=flat-square&logo=openai&logoColor=3B82F6"/>
 
 </td>
 <td width="50%" valign="top">
@@ -174,21 +164,50 @@ AI-powered healthcare platform that detects skin conditions through **image-base
 ### ☀️ Active Technology
 `Aug 2024 – Sep 2025` · **Client Project**
 
-Responsive company website with modern UI/UX and optimized performance: **dark/light mode**, icon system and **WhatsApp chat** support.
+A responsive digital presence for a solar-energy company — modern UI/UX with a strong focus on performance. Features **dark/light mode**, clean iconography, and real-time **WhatsApp chat** integration.
 
-<img src="https://img.shields.io/badge/TypeScript-050B18?style=flat-square&logo=typescript&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Next.js-050B18?style=flat-square&logo=next.js&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Tailwind-050B18?style=flat-square&logo=tailwindcss&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/shadcn/ui-050B18?style=flat-square&logo=shadcnui&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/TypeScript-0A192F?style=flat-square&logo=typescript&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Next.js-0A192F?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-0A192F?style=flat-square&logo=tailwindcss&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/shadcn/ui-0A192F?style=flat-square&logo=shadcnui&logoColor=white"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
-<!-- ===================== PROFILE SUMMARY (GitHub Action output) ===================== -->
-## 🧾 Profile Summary
+<!-- ===================== EDUCATION & CERTS ===================== -->
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"> Education & Certifications
+
+| 🎓 Education | 🏆 Certifications |
+| :--- | :--- |
+| **BS Software Engineering** — University of Management & Technology (UMT), Lahore · `Oct 2021 – 2025` | **Claude Code in Action** — Anthropic <br/> **Docker Foundations** — LinkedIn Learning |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
+
+<!-- ===================== STATS ===================== -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-salman04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0A192F" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-salman04&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0A192F&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-salman04&theme=tokyonight&hide_border=true&background=0A192F&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-salman04&theme=github-compact&hide_border=true&bg_color=0A192F&color=3B82F6&line=3B82F6&point=ffffff&area=true&area_color=3B82F6" width="95%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
+
+<!-- ===================== PROFILE SUMMARY CARDS (generated by GitHub Action → no rate limit) ===================== -->
+## <img src="https://media.giphy.com/media/hqExMhWXFsRz8Hdgns/giphy.gif" width="28"> Profile Summary
 
 <div align="center">
 
@@ -206,39 +225,44 @@ Responsive company website with modern UI/UX and optimized performance: **dark/l
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
-<!-- ===================== EDU / CERTS / TROPHIES ===================== -->
-## 🎓 Education & Certifications
-
-| 🎓 Education | 🏅 Certifications |
-| :--- | :--- |
-| **BS Software Engineering**<br/>University of Management & Technology, Lahore<br/>`Oct 2021 – 2025` | **Claude Code in Action** — Anthropic<br/>**Docker Foundations** — LinkedIn Learning |
+<!-- ===================== QUOTE ===================== -->
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> Dev Quote
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ali-salman04&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" width="80%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0A192F,100:D4AF37&height=3&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
 <!-- ===================== TESTIMONIAL ===================== -->
-## ⭐ What People Say
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"> What People Say
 
 > *"Hafiz Ali is one of the best developers I have ever worked with. He delivers quality work — recently we worked together on a food system web platform and he delivered great results."*
 >
 > — **Muhammad Usman Cheema**, Performance Marketing Specialist
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:3B82F6&height=3&section=header&width=100%"/>
 
 <!-- ===================== CONTACT ===================== -->
 <div align="center">
 
 ## 📫 Let's Build Something Great
 
-<a href="https://www.linkedin.com/in/hafiz-ali-salman-40715a250/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-050B18?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
-<a href="mailto:halisalman04@gmail.com"><img src="https://img.shields.io/badge/-Send%20an%20Email-050B18?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-<a href="https://wa.me/923181469544"><img src="https://img.shields.io/badge/-WhatsApp%20Me-050B18?style=for-the-badge&logo=whatsapp&logoColor=D4AF37"/></a>
+Always open to discussing **projects, collaborations, or a good technical challenge**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:0A192F,100:050B18&height=120&section=footer&width=100%"/>
+<a href="https://www.linkedin.com/in/hafiz-ali-salman-40715a250/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
+<a href="mailto:halisalman04@gmail.com"><img src="https://img.shields.io/badge/-Send%20an%20Email-0A192F?style=for-the-badge&logo=gmail&logoColor=3B82F6"/></a>
+<a href="https://wa.me/923181469544"><img src="https://img.shields.io/badge/-WhatsApp%20Me-0A192F?style=for-the-badge&logo=whatsapp&logoColor=3B82F6"/></a>
+<a href="https://github.com/Ali-salman04"><img src="https://img.shields.io/badge/-Follow%20on%20GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+⭐️ From [Ali-salman04](https://github.com/Ali-salman04) — *thanks for stopping by!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:112240,100:0A192F&height=140&section=footer&width=100%"/>
 
 </div>
