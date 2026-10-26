@@ -15,13 +15,12 @@ jobs:
     name: Generate 3D Contribution City
 
     steps:
+      # Use built-in token for checkout/push (needs repo Actions = Read and write)
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          # PAT if set (private activity + reliable push); else built-in token
-          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
 
+      # PROFILE_TOKEN only for GitHub API (private activity). Do NOT use it to push —
+      # fine-grained PATs often get 403 on git push.
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -39,4 +38,4 @@ jobs:
             exit 0
           fi
           git commit -m "Auto-update 3D contribution city (including private activity)"
-          git push origin HEAD:main
+          git push
