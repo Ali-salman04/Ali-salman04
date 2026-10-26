@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="abBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1620"/>
+      <stop offset="100%" stop-color="#0C1A24"/>
+    </linearGradient>
+    <linearGradient id="abAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00C2CB"/>
+      <stop offset="100%" stop-color="#0E7490"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      @keyframes slide1 { 0%, 30% { opacity: 1; } 33%, 100% { opacity: 0; } }
+      @keyframes slide2 { 0%, 32% { opacity: 0; } 35%, 63% { opacity: 1; } 66%, 100% { opacity: 0; } }
+      @keyframes slide3 { 0%, 65% { opacity: 0; } 68%, 97% { opacity: 1; } 100% { opacity: 0; } }
+      .sl-1 { animation: slide1 12s infinite; }
+      .sl-2 { animation: slide2 12s infinite; }
+      .sl-3 { animation: slide3 12s infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="20" fill="url(#abBg)" stroke="#1A3A44" stroke-width="1.5"/>
+
+  <!-- Left Card: Capabilities -->
+  <g transform="translate(50, 45)">
+    <rect width="520" height="330" rx="16" fill="#0F1F2A" stroke="#1A3A44"/>
+    <text x="35" y="45" class="mono" font-size="13" font-weight="700" fill="#00C2CB" letter-spacing="2">01 // CORE CAPABILITIES</text>
+    <text x="35" y="80" class="sans" font-size="24" font-weight="800" fill="#f8fafc">What I Build &amp; Deliver</text>
+
+    <g transform="translate(35, 120)" class="sans" font-size="16" fill="#cbd5e1">
+      <text x="0" y="0"><tspan fill="#00C2CB" font-weight="bold">▸</tspan> Third-Party Integrations &amp; Clearinghouse APIs</text>
+      <text x="0" y="42"><tspan fill="#00C2CB" font-weight="bold">▸</tspan> Secure REST APIs &amp; Scalable Backend Design</text>
+      <text x="0" y="84"><tspan fill="#00C2CB" font-weight="bold">▸</tspan> Full Stack Products with React, Next.js &amp; Node</text>
+      <text x="0" y="126"><tspan fill="#00C2CB" font-weight="bold">▸</tspan> Database Schema Design &amp; Performance Tuning</text>
+      <text x="0" y="168"><tspan fill="#00C2CB" font-weight="bold">▸</tspan> Healthcare RCM — Claims, Eligibility &amp; Status</text>
+    </g>
+  </g>
+
+  <!-- Right Card: 3-Slide Interests Carousel -->
+  <g transform="translate(630, 45)">
+    <rect width="520" height="330" rx="16" fill="#0F1F2A" stroke="#1A3A44"/>
+    <text x="35" y="45" class="mono" font-size="13" font-weight="700" fill="#0E7490" letter-spacing="2">02 // CURRENT FOCUS</text>
+    <text x="35" y="80" class="sans" font-size="24" font-weight="800" fill="#f8fafc">Interests &amp; Specializations</text>
+
+    <!-- Slide 1 -->
+    <g transform="translate(35, 130)" class="sl-1">
+      <text x="0" y="0" class="sans" font-size="20" font-weight="700" fill="#5EEAD4">Healthcare RCM Systems</text>
+      <text x="0" y="32" class="sans" font-size="15" fill="#94a3b8">Integrating Epic &amp; Oracle Health (EHR) with Stedi &amp; Optum for claims workflows.</text>
+      <rect x="0" y="75" width="130" height="30" rx="6" fill="#1A3A44"/>
+      <text x="65" y="95" class="mono" font-size="12" fill="#2DD4BF" text-anchor="middle">HEALTHTECH</text>
+    </g>
+
+    <!-- Slide 2 -->
+    <g transform="translate(35, 130)" class="sl-2">
+      <text x="0" y="0" class="sans" font-size="20" font-weight="700" fill="#2DD4BF">SaaS &amp; Marketplaces</text>
+      <text x="0" y="32" class="sans" font-size="15" fill="#94a3b8">Shipping production platforms for 10k+ users with React, Next.js, and Node.js.</text>
+      <rect x="0" y="75" width="140" height="30" rx="6" fill="#1A3A44"/>
+      <text x="70" y="95" class="mono" font-size="12" fill="#2DD4BF" text-anchor="middle">NEXT.JS / REACT</text>
+    </g>
+
+    <!-- Slide 3 -->
+    <g transform="translate(35, 130)" class="sl-3">
+      <text x="0" y="0" class="sans" font-size="20" font-weight="700" fill="#34d399">System Architecture</text>
+      <text x="0" y="32" class="sans" font-size="15" fill="#94a3b8">Designing scalable APIs, PostgreSQL schemas, and end-to-end release pipelines.</text>
+      <rect x="0" y="75" width="130" height="30" rx="6" fill="#1A3A44"/>
+      <text x="65" y="95" class="mono" font-size="12" fill="#34d399" text-anchor="middle">NODE + POSTGRES</text>
+    </g>
+
+    <!-- Segment Progress Bars -->
+    <g transform="translate(35, 290)">
+      <rect x="0" y="0" width="140" height="4" rx="2" fill="#1A3A44"/>
+      <rect x="155" y="0" width="140" height="4" rx="2" fill="#1A3A44"/>
+      <rect x="310" y="0" width="140" height="4" rx="2" fill="#1A3A44"/>
+
+      <rect x="0" y="0" width="140" height="4" rx="2" fill="url(#abAccent)">
+        <animate attributeName="opacity" values="1;0;0;1" dur="12s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="155" y="0" width="140" height="4" rx="2" fill="url(#abAccent)">
+        <animate attributeName="opacity" values="0;1;0;0" dur="12s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="310" y="0" width="140" height="4" rx="2" fill="url(#abAccent)">
+        <animate attributeName="opacity" values="0;0;1;0" dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
