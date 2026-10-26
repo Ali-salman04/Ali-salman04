@@ -18,19 +18,25 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PROFILE_TOKEN }}
+          # PAT if set (private activity + reliable push); else built-in token
+          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-contrib/teal-settings.json
 
       - name: Commit & Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A profile-3d-contrib/
-          git commit -m "Auto-update 3D contribution city (including private activity)" || exit 0
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Auto-update 3D contribution city (including private activity)"
+          git push origin HEAD:main
