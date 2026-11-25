@@ -83,12 +83,23 @@
       "tint": "rd",
       "url": "https://notecode.medsynthea.com/login",
       "repo": ""
+    },
+    {
+      "id": "expense",
+      "name": "Expense App",
+      "icon": "icons/expense.png",
+      "line": "Track title, amount & date — filter by year and month.",
+      "status": "shipped",
+      "chips": [["React", "lx"], ["Filters", "rd"], ["Charts", "li"]],
+      "fact": ["language", "Add · filter"],
+      "tint": "li",
+      "url": "https://expense-app-kappa-one.vercel.app/",
+      "repo": "Expense-App"
     }
   ],
   "more": [
     {"name": "Ru-Novel", "url": "https://github.com/Ali-salman04/Ru-Novel"},
     {"name": "School-Record-Inventory", "url": "https://github.com/Ali-salman04/School-Record-Inventory"},
-    {"name": "Expense-App", "url": "https://github.com/Ali-salman04/Expense-App"},
     {"name": "Portfilo", "url": "https://github.com/Ali-salman04/Portfilo"}
   ],
   "now": [
