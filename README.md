@@ -19,23 +19,23 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg">
-  <img src="assets/github-light.svg" alt="GitHub board · 293 contributions last year" width="100%">
+  <img src="assets/github-light.svg" alt="GitHub board · 294 contributions last year" width="100%">
 </picture>
 
-<p align="center"><b>Last 12 months</b>: 293 contributions</p>
+<p align="center"><b>Last 12 months</b>: 294 contributions</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg">
-  <img src="assets/graph-12m-light.svg" alt="293 contributions in the last 12 months" width="100%">
+  <img src="assets/graph-12m-light.svg" alt="294 contributions in the last 12 months" width="100%">
 </picture>
 
 <br/>
 
-<p align="center"><b>2026</b>: 293 contributions</p>
+<p align="center"><b>2026</b>: 294 contributions</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg">
-  <img src="assets/graph-2026-light.svg" alt="293 contributions in 2026" width="100%">
+  <img src="assets/graph-2026-light.svg" alt="294 contributions in 2026" width="100%">
 </picture>
 
 <br/>
@@ -60,7 +60,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
-  <img src="assets/whoami-light.svg" alt="About · 293 contributions in the last year" width="100%">
+  <img src="assets/whoami-light.svg" alt="About · 294 contributions in the last year" width="100%">
 </picture>
 
 <picture>
