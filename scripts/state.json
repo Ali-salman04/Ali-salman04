@@ -1,0 +1,150 @@
+{
+ "fetched": "2026-11-25",
+ "good": {
+  "repos": "2026-11-25"
+ },
+ "sources": {
+  "repos": {
+   "public_repos": 21,
+   "stars": 0,
+   "repos": {
+    "05-ml-service": {
+     "stars": 0,
+     "description": "",
+     "language": "Python"
+    },
+    "active.solar.tech": {
+     "stars": 0,
+     "description": "",
+     "language": "TypeScript"
+    },
+    "Ali-salman04": {
+     "stars": 0,
+     "description": "Config files for my GitHub profile.",
+     "language": ""
+    },
+    "Api-Integration": {
+     "stars": 0,
+     "description": "Next.js + TypeScript app that fetches, displays & searches products from the DummyJSON API.",
+     "language": "TypeScript"
+    },
+    "Desktop-Web-Crawler": {
+     "stars": 0,
+     "description": "",
+     "language": "Python"
+    },
+    "Expense-App": {
+     "stars": 0,
+     "description": "",
+     "language": ""
+    },
+    "Expense_App": {
+     "stars": 0,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "Flight-Website": {
+     "stars": 0,
+     "description": "",
+     "language": "TypeScript"
+    },
+    "Learn-Backend": {
+     "stars": 0,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "Live-x-product": {
+     "stars": 0,
+     "description": "",
+     "language": "TypeScript"
+    },
+    "Master-React-19-and-Next.js-16": {
+     "stars": 0,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "Personal-Portfilo": {
+     "stars": 0,
+     "description": "",
+     "language": "TypeScript"
+    },
+    "Portfilo": {
+     "stars": 0,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "Ru-Novel": {
+     "stars": 0,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "School-Record-Inventory": {
+     "stars": 0,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "skin_api_model": {
+     "stars": 0,
+     "description": "",
+     "language": "Python"
+    },
+    "skin_disease": {
+     "stars": 0,
+     "description": "",
+     "language": "Python"
+    },
+    "skin_disease_api": {
+     "stars": 0,
+     "description": "",
+     "language": ""
+    },
+    "skin_fyp_model": {
+     "stars": 0,
+     "description": "",
+     "language": "Python"
+    },
+    "task_ev": {
+     "stars": 0,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "test-rep": {
+     "stars": 0,
+     "description": "",
+     "language": "HTML"
+    }
+   }
+  }
+ },
+ "years": {
+  "2024": {
+   "total": 7,
+   "days": {
+    "2024-05-29": 3,
+    "2024-05-09": 4
+   }
+  },
+  "2025": {
+   "total": 26,
+   "days": {
+    "2025-07-20": 1,
+    "2025-05-12": 1,
+    "2025-06-02": 1,
+    "2025-06-30": 2,
+    "2025-07-21": 1,
+    "2025-08-04": 1,
+    "2025-08-11": 2,
+    "2025-09-23": 1,
+    "2025-11-18": 1,
+    "2025-07-02": 2,
+    "2025-07-09": 1,
+    "2025-06-26": 1,
+    "2025-10-30": 1,
+    "2025-04-18": 1,
+    "2025-05-30": 1,
+    "2025-04-05": 7,
+    "2025-05-31": 1
+   }
+  }
+ }
+}

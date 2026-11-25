@@ -1,0 +1,1 @@
+# stdlib-only build — no pip packages required for core profile refresh

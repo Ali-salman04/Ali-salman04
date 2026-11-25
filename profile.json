@@ -1,0 +1,90 @@
+{
+  "user": "Ali-salman04",
+  "created": {
+    "value": "2024-05-01",
+    "source": "GitHub account / profile repo created May 2024",
+    "as_of": "2026-11-25"
+  },
+  "tagline": {
+    "value": "Full Stack Engineer building SaaS, marketplaces, and third-party integrations.",
+    "as_of": "2026-11-25"
+  },
+  "location": {
+    "value": "Lahore, Pakistan",
+    "as_of": "2026-11-25"
+  },
+  "role": {
+    "value": "Associate Software Engineer @ Medsynthea",
+    "as_of": "2026-11-25"
+  },
+  "links": {
+    "github": {
+      "label": "GitHub",
+      "handle": "@Ali-salman04",
+      "url": "https://github.com/Ali-salman04"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "handle": "hafiz-ali-salman",
+      "url": "https://www.linkedin.com/in/hafiz-ali-salman"
+    },
+    "email": {
+      "label": "Email",
+      "handle": "halisalman04@gmail.com",
+      "url": "mailto:halisalman04@gmail.com"
+    }
+  },
+  "apps": [
+    {
+      "id": "medsynthea",
+      "name": "Medsynthea",
+      "line": "US healthcare RCM — Epic & Oracle Health EHR with Stedi & Optum clearinghouse APIs.",
+      "status": "production",
+      "chips": ["React", "Node.js", "Integrations"],
+      "tint": "teal",
+      "url": "https://github.com/Ali-salman04"
+    },
+    {
+      "id": "derma-ai",
+      "name": "Derma AI",
+      "line": "FYP at UMT — AI skin-condition detection with diagnostics, chatbot, and product insights.",
+      "status": "shipped",
+      "chips": ["MERN", "AI", "HealthTech"],
+      "tint": "mint",
+      "url": "https://github.com/Ali-salman04"
+    },
+    {
+      "id": "active-tech",
+      "name": "Active Technology",
+      "line": "Solar-energy company site — Next.js, Tailwind, light/dark mode, WhatsApp chat.",
+      "status": "shipped",
+      "chips": ["Next.js", "Tailwind", "UI"],
+      "tint": "deep",
+      "url": "https://github.com/Ali-salman04"
+    },
+    {
+      "id": "saas",
+      "name": "SaaS & Marketplaces",
+      "line": "Production full-stack platforms serving 10k+ users — schema to release ownership.",
+      "status": "ongoing",
+      "chips": ["PostgreSQL", "Docker", "APIs"],
+      "tint": "cyan",
+      "url": "https://github.com/Ali-salman04"
+    }
+  ],
+  "more": [
+    {"name": "Ru-Novel", "url": "https://github.com/Ali-salman04/Ru-Novel"},
+    {"name": "School-Record-Inventory", "url": "https://github.com/Ali-salman04/School-Record-Inventory"},
+    {"name": "Expense-App", "url": "https://github.com/Ali-salman04/Expense-App"},
+    {"name": "Portfilo", "url": "https://github.com/Ali-salman04/Portfilo"}
+  ],
+  "education": {
+    "degree": "BS Software Engineering",
+    "school": "UMT — University of Management and Technology",
+    "years": "2021 – 2025"
+  },
+  "now": [
+    "Healthcare RCM integrations at Medsynthea",
+    "Open to On-site · Hybrid · Remote roles"
+  ]
+}

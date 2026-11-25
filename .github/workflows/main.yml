@@ -5,6 +5,10 @@ on:
     # Runs daily at 18:00 UTC (11:00 PM PKT)
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/**"
+      - "profile.json"
 
 permissions:
   contents: write
@@ -19,6 +23,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       # PROFILE_TOKEN only for GitHub API (private activity). Do NOT use it to push —
       # fine-grained PATs often get 403 on git push.
       - name: Generate 3D Contribution Profile
@@ -28,14 +36,27 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-contrib/teal-settings.json
 
+      - name: Build profile cards
+        id: cards
+        run: python scripts/build.py
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
       - name: Commit & Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A profile-3d-contrib/
+          git add -A profile-3d-contrib/ assets README.md scripts/state.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Auto-update 3D contribution city (including private activity)"
+          git commit -m "Auto-update profile cards and 3D contribution city"
           git push
+
+      - name: Fail when card build failed
+        if: steps.cards.outcome == 'failure'
+        run: |
+          echo "build.py failed — check contribution calendar or API rate limits"
+          exit 1
