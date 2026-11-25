@@ -73,6 +73,14 @@ def render(data, P):
     more = " · ".join(link(m["url"], m["name"]) for m in P.get("more", []))
     if more:
         out += [f'<p align="center"><sub>More ships: {more}</sub></p>', ""]
+    education = P.get("education") or []
+    if education:
+        out += [picture("label-education", "100%", "Education", True), ""]
+        edu_cards = []
+        for e in education:
+            alt = app_label(e, app_fact(e, data, P))
+            edu_cards.append(link(e["url"], picture(f"edu-{e['id']}", "49%", alt, True)))
+        out += ['<p align="center">', *edu_cards, "</p>", ""]
     certs = P.get("certs") or []
     if certs:
         out += [picture("label-certs", "100%", "Licenses & certifications", True), ""]

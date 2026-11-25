@@ -113,6 +113,20 @@
     {"name": "Ru-Novel", "url": "https://github.com/Ali-salman04/Ru-Novel"},
     {"name": "Portfilo", "url": "https://github.com/Ali-salman04/Portfilo"}
   ],
+  "education": [
+    {
+      "id": "umt",
+      "name": "UMT",
+      "icon": "icons/umt.png",
+      "line": "Bachelor of Science in Software Engineering.",
+      "status": "graduate",
+      "chips": [["BS SE", "lx"], ["Oct 2021", "bd"], ["Nov 2025", "li"]],
+      "fact": ["University of Management and Technology"],
+      "tint": "rd",
+      "url": "https://www.umt.edu.pk/",
+      "repo": ""
+    }
+  ],
   "certs": [
     {
       "id": "docker-foundations",

@@ -51,6 +51,13 @@
 
 <p align="center"><sub>More ships: <a href="https://github.com/Ali-salman04/Ru-Novel">Ru-Novel</a> · <a href="https://github.com/Ali-salman04/Portfilo">Portfilo</a></sub></p>
 
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/label-education-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/label-education-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/label-education-dark.svg"><img src="assets/label-education-light.svg" width="100%" alt="Education"></picture>
+
+<p align="center">
+<a href="https://www.umt.edu.pk/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/edu-umt-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/edu-umt-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/edu-umt-dark.svg"><img src="assets/edu-umt-light.svg" width="49%" alt="UMT: Bachelor of Science in Software Engineering. Graduate, University of Management and Technology."></picture></a>
+</p>
+
+
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/label-certs-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/label-certs-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/label-certs-dark.svg"><img src="assets/label-certs-light.svg" width="100%" alt="Licenses &amp; certifications"></picture>
 
 <p align="center">
