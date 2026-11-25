@@ -1,8 +1,9 @@
 {
+  "_about": "Hand-kept facts for the Ali Salman profile. Live numbers come from scripts/fetch.py.",
   "user": "Ali-salman04",
   "created": {
     "value": "2024-05-01",
-    "source": "GitHub account / profile repo created May 2024",
+    "source": "GitHub account / profile repo",
     "as_of": "2026-11-25"
   },
   "tagline": {
@@ -38,38 +39,50 @@
     {
       "id": "medsynthea",
       "name": "Medsynthea",
-      "line": "US healthcare RCM — Epic & Oracle Health EHR with Stedi & Optum clearinghouse APIs.",
+      "icon": "icons/medsynthea.png",
+      "line": "US healthcare RCM — Epic & Oracle Health with Stedi & Optum APIs.",
       "status": "production",
-      "chips": ["React", "Node.js", "Integrations"],
-      "tint": "teal",
-      "url": "https://github.com/Ali-salman04"
+      "chips": [["React", "lx"], ["Node.js", "bd"], ["Integrations", "li"]],
+      "fact": ["language", "Healthcare RCM"],
+      "tint": "bd",
+      "url": "https://github.com/Ali-salman04",
+      "repo": ""
     },
     {
       "id": "derma-ai",
       "name": "Derma AI",
-      "line": "FYP at UMT — AI skin-condition detection with diagnostics, chatbot, and product insights.",
+      "icon": "icons/derma-ai.png",
+      "line": "UMT FYP — AI skin detection with diagnostics, chatbot, insights.",
       "status": "shipped",
-      "chips": ["MERN", "AI", "HealthTech"],
-      "tint": "mint",
-      "url": "https://github.com/Ali-salman04"
+      "chips": [["MERN", "lx"], ["AI", "rd"], ["HealthTech", "li"]],
+      "fact": ["language", "FYP"],
+      "tint": "rd",
+      "url": "https://github.com/Ali-salman04/skin_disease",
+      "repo": "skin_disease"
     },
     {
       "id": "active-tech",
       "name": "Active Technology",
-      "line": "Solar-energy company site — Next.js, Tailwind, light/dark mode, WhatsApp chat.",
+      "icon": "icons/active-tech.png",
+      "line": "Solar company site — Next.js, Tailwind, light/dark, WhatsApp.",
       "status": "shipped",
-      "chips": ["Next.js", "Tailwind", "UI"],
-      "tint": "deep",
-      "url": "https://github.com/Ali-salman04"
+      "chips": [["Next.js", "lx"], ["Tailwind", "bd"], ["UI", "li"]],
+      "fact": ["language", "stars"],
+      "tint": "lx",
+      "url": "https://github.com/Ali-salman04/active.solar.tech",
+      "repo": "active.solar.tech"
     },
     {
       "id": "saas",
-      "name": "SaaS & Marketplaces",
-      "line": "Production full-stack platforms serving 10k+ users — schema to release ownership.",
+      "name": "SaaS Platforms",
+      "icon": "icons/saas.png",
+      "line": "Full-stack platforms for 10k+ users — schema to release ownership.",
       "status": "ongoing",
-      "chips": ["PostgreSQL", "Docker", "APIs"],
-      "tint": "cyan",
-      "url": "https://github.com/Ali-salman04"
+      "chips": [["PostgreSQL", "lx"], ["Docker", "bd"], ["APIs", "x"]],
+      "fact": ["schema → ship"],
+      "tint": "x",
+      "url": "https://github.com/Ali-salman04",
+      "repo": ""
     }
   ],
   "more": [
@@ -78,11 +91,6 @@
     {"name": "Expense-App", "url": "https://github.com/Ali-salman04/Expense-App"},
     {"name": "Portfilo", "url": "https://github.com/Ali-salman04/Portfilo"}
   ],
-  "education": {
-    "degree": "BS Software Engineering",
-    "school": "UMT — University of Management and Technology",
-    "years": "2021 – 2025"
-  },
   "now": [
     "Healthcare RCM integrations at Medsynthea",
     "Open to On-site · Hybrid · Remote roles"
