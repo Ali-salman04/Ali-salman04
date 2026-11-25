@@ -74,7 +74,7 @@ def render(data, P):
     if more:
         out += [f'<p align="center"><sub>More ships: {more}</sub></p>', ""]
     out += [
-        '<p align="center"><sub>Drawn in the Hafiz Ali Salman teal design system · '
+        '<p align="center"><sub>Drawn in the ZazaG-style sticker design system · '
         "numbers redrawn by a GitHub Action · "
         f'{link(L["linkedin"]["url"], "LinkedIn")} · '
         f'{link(L["github"]["url"], "GitHub")}</sub></p>',
