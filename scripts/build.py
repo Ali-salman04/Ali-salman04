@@ -50,6 +50,15 @@ def make_assets(data, P):
         for a in P["apps"]:
             out[f"app-{a['id']}-{t}.svg"] = cards.app(t, a, data, P)
             out[f"app-{a['id']}-phone-{t}.svg"] = phone.app_phone(t, a, data, P)
+        certs = P.get("certs") or []
+        if certs:
+            out[f"label-certs-{t}.svg"] = cards.label(
+                t, "Licenses & certifications", f"{len(certs)} credentials", "lx", "card"
+            )
+            out[f"label-certs-phone-{t}.svg"] = phone.label_phone(t, "Certifications", "lx")
+            for c in certs:
+                out[f"cert-{c['id']}-{t}.svg"] = cards.app(t, c, data, P)
+                out[f"cert-{c['id']}-phone-{t}.svg"] = phone.app_phone(t, c, data, P)
     return out
 
 

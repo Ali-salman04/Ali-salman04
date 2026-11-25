@@ -73,4 +73,12 @@ def render(data, P):
     more = " · ".join(link(m["url"], m["name"]) for m in P.get("more", []))
     if more:
         out += [f'<p align="center"><sub>More ships: {more}</sub></p>', ""]
+    certs = P.get("certs") or []
+    if certs:
+        out += [picture("label-certs", "100%", "Licenses & certifications", True), ""]
+        cert_cards = []
+        for c in certs:
+            alt = app_label(c, app_fact(c, data, P))
+            cert_cards.append(link(c["url"], picture(f"cert-{c['id']}", "49%", alt, True)))
+        out += ['<p align="center">', *cert_cards, "</p>", ""]
     return "\n".join(out)

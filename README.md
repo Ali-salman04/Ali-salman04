@@ -50,3 +50,11 @@
 </p>
 
 <p align="center"><sub>More ships: <a href="https://github.com/Ali-salman04/Ru-Novel">Ru-Novel</a> · <a href="https://github.com/Ali-salman04/Portfilo">Portfilo</a></sub></p>
+
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/label-certs-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/label-certs-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/label-certs-dark.svg"><img src="assets/label-certs-light.svg" width="100%" alt="Licenses &amp; certifications"></picture>
+
+<p align="center">
+<a href="https://www.linkedin.com/learning/certificates/cac41734c518e8b60b1ce4020d63407b8f87d119a6cd884372a7804ddc44b6ad"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cert-docker-foundations-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/cert-docker-foundations-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/cert-docker-foundations-dark.svg"><img src="assets/cert-docker-foundations-light.svg" width="49%" alt="Docker Foundations: LinkedIn Learning Professional Certificate — Docker Products. Issued, Professional Certificate."></picture></a>
+<a href="https://verify.skilljar.com/c/er2grtzh96aq"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cert-claude-code-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/cert-claude-code-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/cert-claude-code-dark.svg"><img src="assets/cert-claude-code-light.svg" width="49%" alt="Claude Code in Action: Anthropic course — build with Claude Code in real workflows. Issued, er2grtzh96aq."></picture></a>
+</p>
+

@@ -113,6 +113,32 @@
     {"name": "Ru-Novel", "url": "https://github.com/Ali-salman04/Ru-Novel"},
     {"name": "Portfilo", "url": "https://github.com/Ali-salman04/Portfilo"}
   ],
+  "certs": [
+    {
+      "id": "docker-foundations",
+      "name": "Docker Foundations",
+      "icon": "icons/docker-foundations.png",
+      "line": "LinkedIn Learning Professional Certificate — Docker Products.",
+      "status": "issued",
+      "chips": [["Docker", "bd"], ["LinkedIn", "lx"], ["Jun 2026", "li"]],
+      "fact": ["Professional Certificate"],
+      "tint": "bd",
+      "url": "https://www.linkedin.com/learning/certificates/cac41734c518e8b60b1ce4020d63407b8f87d119a6cd884372a7804ddc44b6ad",
+      "repo": ""
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code in Action",
+      "icon": "icons/claude-code.png",
+      "line": "Anthropic course — build with Claude Code in real workflows.",
+      "status": "issued",
+      "chips": [["Anthropic", "rd"], ["AI", "x"], ["Mar 2026", "li"]],
+      "fact": ["er2grtzh96aq"],
+      "tint": "x",
+      "url": "https://verify.skilljar.com/c/er2grtzh96aq",
+      "repo": ""
+    }
+  ],
   "now": [
     "Healthcare RCM integrations at Medsynthea",
     "Open to On-site · Hybrid · Remote roles"
