@@ -45,7 +45,7 @@
       "chips": [["React", "lx"], ["Node.js", "bd"], ["Integrations", "li"]],
       "fact": ["language", "Healthcare RCM"],
       "tint": "bd",
-      "url": "https://github.com/Ali-salman04",
+      "url": "https://medsynthea.com/",
       "repo": ""
     },
     {
@@ -73,15 +73,15 @@
       "repo": "active.solar.tech"
     },
     {
-      "id": "saas",
-      "name": "SaaS Platforms",
-      "icon": "icons/saas.png",
-      "line": "Full-stack platforms for 10k+ users — schema to release ownership.",
-      "status": "ongoing",
-      "chips": [["PostgreSQL", "lx"], ["Docker", "bd"], ["APIs", "x"]],
-      "fact": ["schema → ship"],
-      "tint": "x",
-      "url": "https://github.com/Ali-salman04",
+      "id": "notecode",
+      "name": "Notecode",
+      "icon": "icons/notecode.png",
+      "line": "AI transcription to SOAP notes with medical coding & Stripe.",
+      "status": "shipped",
+      "chips": [["AI", "rd"], ["SOAP Notes", "lx"], ["Stripe", "bd"]],
+      "fact": ["Transcription", "Medical coding"],
+      "tint": "rd",
+      "url": "https://notecode.medsynthea.com/login",
       "repo": ""
     }
   ],
