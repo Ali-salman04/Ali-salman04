@@ -95,11 +95,22 @@
       "tint": "li",
       "url": "https://expense-app-kappa-one.vercel.app/",
       "repo": "Expense-App"
+    },
+    {
+      "id": "school-record",
+      "name": "School Record Inventory",
+      "icon": "icons/school-record.png",
+      "line": "Admin/user dashboards — Firebase roles, real-time sync & FCM.",
+      "status": "shipped",
+      "chips": [["React", "lx"], ["Firebase", "rd"], ["Tailwind", "bd"]],
+      "fact": ["language", "RBAC"],
+      "tint": "lx",
+      "url": "https://school-record-inventory-btgy.vercel.app/login",
+      "repo": "School-Record-Inventory"
     }
   ],
   "more": [
     {"name": "Ru-Novel", "url": "https://github.com/Ali-salman04/Ru-Novel"},
-    {"name": "School-Record-Inventory", "url": "https://github.com/Ali-salman04/School-Record-Inventory"},
     {"name": "Portfilo", "url": "https://github.com/Ali-salman04/Portfilo"}
   ],
   "now": [
